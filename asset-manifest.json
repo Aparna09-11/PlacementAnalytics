@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/PlacementAnalytics/static/css/main.d951f6c7.css",
+    "main.js": "/PlacementAnalytics/static/js/main.0397f32a.js",
+    "static/js/453.965d13fe.chunk.js": "/PlacementAnalytics/static/js/453.965d13fe.chunk.js",
+    "static/media/triangles-1430105_1280.webp": "/PlacementAnalytics/static/media/triangles-1430105_1280.57639a929598883ea0a6.webp",
+    "static/media/final_logo_shaligram.jpg": "/PlacementAnalytics/static/media/final_logo_shaligram.80f97ed8ce7c968e5e45.jpg",
+    "index.html": "/PlacementAnalytics/index.html",
+    "main.d951f6c7.css.map": "/PlacementAnalytics/static/css/main.d951f6c7.css.map",
+    "main.0397f32a.js.map": "/PlacementAnalytics/static/js/main.0397f32a.js.map",
+    "453.965d13fe.chunk.js.map": "/PlacementAnalytics/static/js/453.965d13fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d951f6c7.css",
+    "static/js/main.0397f32a.js"
+  ]
+}
